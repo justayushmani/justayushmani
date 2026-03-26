@@ -9,3 +9,6 @@ Web Developer , Tech Enthusiast
 * ✉️  You can contact me at [ayushmanitiwari931@gmail.com](mailto:ayushmanitiwari931@gmail.com)
 * 🧠  I'm currently learning React
 * 💬  Ask me about I'm secretly Spiderman...but don't tell anyone
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyatoshkumarshahi&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
